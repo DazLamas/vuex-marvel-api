@@ -9,7 +9,7 @@
     "dev": "node build/server.js",
     "lint": "xo **/client/**/*.{vue,js} !node_modules/**"
   },
-  "author": "Sara Díaz Lamas <sara.diaz@nomasystems.com>",
+  "author": "Sarah Díaz Lamas <sarah.d.lamas@gmail.com>",
   "license": "MIT",
   "xo": {
     "extends": "./.eslintrc",
